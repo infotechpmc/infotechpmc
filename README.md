@@ -80,6 +80,16 @@ Have questions? We'd love to hear from you!
 - 🌐 [Website](https://infotechpmc.com)
 ---
 
+## 🚀 Sponsored by
+<div align="center">
+  <a href="https://www.bisup.com/">
+    <img src="https://img.shields.io/badge/Web_Hosting-Bisup-2ea44f?style=for-the-badge" alt="Web Hosting - Bisup">
+  </a>
+  <p><em>Proudly hosted on the web by <a href="https://www.bisup.com/">Bisup</a></em></p>
+</div>
+
+---
+
 <div align="center">
 
   *Built with ❤️ by students, for students*
